@@ -11,7 +11,7 @@
 	<form action="save" method="post">
 			Name : <input name="name" type="text" /> 
 			Designation : <input name="designation" type="text"/>
-			Expertise : <input name="expertise" type="password" /> <input type="submit" />
+			Expertise : <input name="expertise" type="text" /> <input type="submit" />
 	</form>
 </body>
 </html>
